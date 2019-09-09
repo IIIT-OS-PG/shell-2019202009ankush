@@ -302,3 +302,8 @@ cat mmmm.txt
 ls
 history
 exit
+ls
+ls -l|grep Sep
+
+ls -l|grep Sep
+

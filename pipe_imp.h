@@ -1,5 +1,5 @@
 
-int mp(char *strin[],int c)
+void mp(char *strin[],int c)
 {
     int m=2*c,ou,s;
     int fd[m];
